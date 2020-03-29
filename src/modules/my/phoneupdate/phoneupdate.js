@@ -1,4 +1,3 @@
 import { LightningElement } from 'lwc';
 
-export default class phoneupdate extends LightningElement {
-}
+export default class phoneupdate extends LightningElement {}
